@@ -1,0 +1,25 @@
+<Publish>
+  <ModId Value="88206" />
+  <DisplayName Value="CC22A Road Pack 1" />
+  <ShortDescription Value="Pack adds 12 new roads that can have multiple usage depending on the upgrades." />
+  <LongDescription>CC22A Road Pack 1
+This asset packs adds 12 Custom Roads to the game. Unlike the Road Builder by TDW which roads are "permanently" created, my roads will require upgrade to be used. Without upgrades, it will just acts like regular roads.
+
+There are 12 Custom Road Assets:
+- Five-Lane Oneway Road: Five lane road that becomes one-way four lane when upgraded with Tram Tracks. For LHT Users, this will put the tram lanes in the inner side
+- Four-Lane Oneway Road: Same as the five lane one, except that it becomes 3 lanes when upgraded with Tram Tracks
+- Will lists more when I remember which roads that I added. 
+
+More screenshots are welcome. Send it to the discord.</LongDescription>
+  <Thumbnail Value="Properties/CC22A_RoadPack_Thumbnail.png" />
+  <Screenshot Value="Properties/CC22A_Roadpack_Pic1.png" />
+  <Screenshot Value="Properties/CC22A_Roadpack_Pic2.png" />
+  <Screenshot Value="Properties/CC22A_Roadpack_Pic3.png" />
+  <Tag Value="" />
+  <ForumLink Value="" />
+  <ModVersion Value="1.0" />
+  <GameVersion Value="1.1.*" />
+  <Dependency Id="78903" />
+  <ChangeLog>Initial release</ChangeLog>
+  <ExternalLink Type="discord" Url="https://discord.gg/dCtANW5dcq" />
+</Publish>
